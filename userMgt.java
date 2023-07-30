@@ -1,6 +1,6 @@
 ben
 dan
-simon
+mercy
 chika
 bisi
 kiki
