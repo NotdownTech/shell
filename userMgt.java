@@ -5,3 +5,4 @@ chika
 bisi
 kiki
 rose
+manager
